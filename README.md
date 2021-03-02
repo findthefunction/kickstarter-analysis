@@ -30,7 +30,7 @@ Utilizing the goal data from the campaigns across increments of ~$5000 enables u
 
 ### Challenges and Difficulties Encountered
 
-The small size of the data set limits our ability to find anomalies within the data.  
+The small size of the data set limits our ability to find anomalies within the data.  The data does not included the methods in which these campaigns were marketed which makes it difficult to make direct comparisons.  There is valuable insight contained within the failed campaigns which could be explored further.   
 
 ## Results
 
