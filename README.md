@@ -17,7 +17,7 @@ Utilizing launch date information combined with the success rate of various prod
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/31022640/109518814-777b8e80-7a5f-11eb-838a-c8f6027dc999.png)
 
 The resulting analysis matches the overall success patterns for all categories of Kickstarter campaigns with May having the highest success rate with all categories factored in. 
-![Outcomes_vs_Launch](https://user-images.githubusercontent.com/31022640/109587437-ee467500-7abb-11eb-8a6d-92ff0da90fc5.png)
+![Outcomes_vs_Launch](https://user-images.githubusercontent.com/31022640/109587739-70369e00-7abc-11eb-9142-f2359fc2d71b.png)
 
 The average success rate was 60% for plays that year.  There are many factors that can affect a successful campaign, isolating specific variables can provide insight, however by eliminating data points our ability to provide accurate assumptions based on the data could be challenged.  We can conclude that positioning your launch date to capture the increased interest in funding campaigns during the spring would have a quantitative advantage.
 
